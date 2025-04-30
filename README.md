@@ -1,12 +1,4 @@
-- 👋 Hi, I’m Marco. Welcome to the Marcoverse.
-- 👀 I’m interested in AWS and the field of cloud computing as a whole. 
-- 🌱 I’m currently learning AWS' range of services and products. Mind you, the industry is opening up and I intend to pick up the basics of Azure an GCP in time to come.
-- 💞️ I’m looking to collaborate on containerisation and event-driven serverless workloads. Anything to put my knowledge to use, and test me a bit further. 
-- 📫 Send me a line over at mballalbarran+git@gmail.com for related queries!
-
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marco
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Welcome to the Marcoverse.
 =============================================================================================================================
 
